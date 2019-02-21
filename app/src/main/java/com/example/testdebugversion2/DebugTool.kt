@@ -20,7 +20,6 @@ import com.example.testdebugversion2.functions.SendRealm
 import com.example.testdebugversion2.functions.SendZip
 import com.example.testdebugversion2.listeners.OptionListener
 import com.example.testdebugversion2.options.Options
-import com.example.testdebugversion2.R
 import com.willowtreeapps.hyperion.core.Hyperion
 
 

@@ -52,8 +52,6 @@ dependencies {
     implementation 'com.willowtreeapps.hyperion:hyperion-timber:0.9.27'
     implementation 'com.willowtreeapps.hyperion:hyperion-build-config:0.9.27'
     implementation 'org.apache.commons:commons-lang3:3.0'
-    //implementation of ZipFile file
-    // Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 
     //noinspection GradlePath
     implementation files('libs/zip4j_1.3.2.jar')
